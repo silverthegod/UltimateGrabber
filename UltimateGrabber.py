@@ -171,7 +171,7 @@ email_content += f"Mapping Network Using ipconfig command:\n\n"
 email_content += f"{ipconfig}"
 
 #Send the Email
-sender = "youremail@email.com"
+sender = "silverberg1001@gmail.com"
 recipient = sender
 app_password = "app password goes here"
 
